@@ -1,1 +1,1 @@
-# Image_Processing
+In my recent project, I worked on processing a dataset of cat and dog images using Python. Using libraries like OpenCV, Matplotlib, NumPy, and Pandas, alongside the glob module, I successfully loaded and visualized images. I explored various image processing techniques such as manipulating RGB channels, resizing images, and performing pixel-level operations like blurring and sharpening. Afterwards, I saved the processed images, further enhancing my Python skills and gaining valuable insights into image processing fundamentals
